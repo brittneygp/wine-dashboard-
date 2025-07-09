@@ -56,5 +56,5 @@ This interactive dashboard is designed to provide a clear, intuitive experience 
 **Brittney Nitin Gohil**  
 Postgraduate in Data Analytics & Cloud Computing  
 Based in Canada 🇨🇦 | Passionate about data storytelling and product innovation  
-[LinkedIn Profile][https://www.linkedin.com/in/brittney-gohil-74bb7a308/ ]| [GitHub](https://github.com/[your-username](https:/brittneygp))
+[LinkedIn Profile][https://www.linkedin.com/in/brittney-gohil-74bb7a308/ ]| [GitHub](https://github.com/https://github.com/brittneygp)
 
